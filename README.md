@@ -18,7 +18,7 @@ I'm currently working on enhancing my skills in both **front-end** and **back-en
 
 ## 🛠️ My Skills
 ### Front-End
-- HTML, CSS, Bootstrap, Tailwind
+- HTML, CSS, Bootstrap,Js ,React.js Tailwind
 
 ### Back-End
 - PHP, Laravel, MySQL, MongoDB
